@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2745befe_002D8f15_002D4824_002Dace1_002Dcbba15616f83/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::3CDA6A47-F6F7-4617-8A1F-43B873EAB5BA::net5.0::ElevatorTester.ElevatorTests.GoTo_should_go_up_then_down&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f3a2d1fb_002D3652_002D4c01_002D8802_002Dbf49de2905a5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GoTo_should_go_up_then_down" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::3CDA6A47-F6F7-4617-8A1F-43B873EAB5BA::net5.0::ElevatorTester.ElevatorTests.Should_return_0_when_going_to_current_floor&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3CDA6A47-F6F7-4617-8A1F-43B873EAB5BA::net5.0::ElevatorTester.ElevatorTests.Should_return_not_change_plan_when_floor_already_in_plan&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3CDA6A47-F6F7-4617-8A1F-43B873EAB5BA::net5.0::ElevatorTester.ElevatorTests.Should_return_destination_floor_when_calling_Move&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
